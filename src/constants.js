@@ -236,16 +236,16 @@ export const SkillsInfo = [
       github: "https://github.com/Shiva6200744685/To-do-MERN-Stack-Project",
       webapp: "https://to-do-mern-stack-project.vercel.app/",
     },
-    // {
-    //   id: 4,
-    //   title: "Task Reminder Chrome Extension Tool",
-    //   description:
-    //     "A productivity-boosting Chrome extension designed to help users manage and remember their daily tasks. Built using JavaScript, it offers a simple interface with reminders and task notifications to keep users on track.",
-    //   image: taskremLogo,
-    //   tags: ["JavaScript", "Chrome Extension", "HTML", "CSS"],
-    //   github: "https://github.com/codingmastr/Task-Reminder-Tool",
-    //   webapp: "chrome://extensions/?id=kngheeibjnnidhfoomkpnbeghackheci",
-    // },
+    {
+      id: 4,
+      title: "Face Recognition Based Attendance System",
+      description:
+        "Developed a Face Recognition-Based Attendance System using real-time video processing to automate attendance tracking. Integrated facial recognition models for accurate identification and eliminated proxy attendance. Utilized OpenCV and machine learning techniques, with data securely stored in a database. Enhanced efficiency and reliability in institutional and organizational attendance management.",
+      image: taskremLogo,
+      tags: ["Python", "OpenCV", "MySql", "tkinter"],
+      github: "https://github.com/Shiva6200744685/Face-Recognition-Based-Attendance-System-Project",
+      webapp: "Loading",
+    },
     // {
     //   id: 5,
     //   title: "Webverse Digital",
